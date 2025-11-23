@@ -1,7 +1,8 @@
 ## Olá, sou Laerson, desenvolvedor com atuação em duas frentes tecnológicas:
-Inteligência Artificial: desenvolvimento de modelos e soluções em IA
-URA Inteligente: criação de sistemas de atendimento automatizado para call center via chat
+- **Inteligência Artificial**: desenvolvimento de modelos e soluções em IA
+- **URA Inteligente**: criação de sistemas de atendimento automatizado para call center via chat
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LaersonBPK&layout=compact&theme=dark)](https://github.com/LaersonBPK)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -11,11 +12,9 @@ URA Inteligente: criação de sistemas de atendimento automatizado para call cen
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
-  ##
- 
+
+##
+
 <div> 
-  
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
